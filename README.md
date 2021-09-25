@@ -18,8 +18,10 @@ adils_list_maker: [Here](https://drive.google.com/file/d/1z7o2oioqjmiwGGo8M7i_Ih
 
 ## How to Use
 1. Download from [here](README.md#download-app).
-2. Give permission after downloading.
-3. wa..la! thats all.
+2. Select package Installer.
+3. Select Install.
+4. Select open.
+5. wa..la! thats all.
 
 ## Helpmate
 - [Rijfaz](https://github.com/rijfas)
