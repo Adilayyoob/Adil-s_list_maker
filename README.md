@@ -21,7 +21,7 @@ adils_list_maker: [Here](https://drive.google.com/file/d/1z7o2oioqjmiwGGo8M7i_Ih
 2. Give permission after downloading.
 3. wa..la! thats all.
 
-## Contribution
+## Helpmate
 - [Rijfaz]("https://github.com/rijfas")
 
 ## Faults In adils_list_maker
