@@ -1,5 +1,5 @@
 # adils_list_maker
-This is a List making mobile application. Inspired by neomorphism design language. A huge thanks to **Rijfaz** for making this app possible.
+This is a List making mobile application. Inspired by neomorphism design language. A huge thanks to **[Rijfaz](https://github.com/rijfas)** for making this app possible.
 
 ## Download App
 adils_list_maker: [Here](https://drive.google.com/file/d/1z7o2oioqjmiwGGo8M7i_IhcfZEb-Tj3D/view?usp=sharing).
@@ -22,7 +22,7 @@ adils_list_maker: [Here](https://drive.google.com/file/d/1z7o2oioqjmiwGGo8M7i_Ih
 3. wa..la! thats all.
 
 ## Helpmate
-- [Rijfaz]("https://github.com/rijfas")
+- [Rijfaz](https://github.com/rijfas)
 
 ## Faults In adils_list_maker
 - Data not stored hence exit from app cause data loss.
