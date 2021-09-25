@@ -1,16 +1,28 @@
 # adils_list_maker
+This is a List making mobile application. Inspired by neomorphism design language. A huge thanks to **Rijfaz** for making this app possible.
 
-A new Flutter application.
+## Download App
+adils_list_maker: [Here](https://drive.google.com/file/d/1z7o2oioqjmiwGGo8M7i_IhcfZEb-Tj3D/view?usp=sharing).
 
-## Getting Started
+## Initial UI/UX
+![Google Pixel 2 XL - 1](https://user-images.githubusercontent.com/67414716/134766521-3dae3a36-1301-4ced-a0cf-e5d312fcb01d.png)
 
-This project is a starting point for a Flutter application.
+## Features
+- A useful single page app that can store List of items you want to buy while going for shoping.
+- A container showing serial number and name of item you want to buy.
+- Each list item can be deleted by clicking 'X'.
+- A button for deleting all list at once.
 
-A few resources to get you started if this is your first Flutter project:
+## Libraries used
+-No extra libraries used.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## How to Use
+1. Download from [here](README.md#download-app).
+2. Give permission after downloading.
+3. wa..la! thats all.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contribution
+- [Rijfaz]("https://github.com/rijfas")
+
+## Faults In adils_list_maker
+- Data not stored hence exit from app cause data loss.
